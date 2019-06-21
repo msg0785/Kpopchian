@@ -1,0 +1,178 @@
+[
+  {
+    "memberId": 1,
+    "groupsId": 1,
+    "name": "RM(김남준)",
+    "mainImgUrl": "https://ifh.cc/g/RoQzg.jpg",
+    "subImgUrl": "https://ifh.cc/g/gfD93.jpg",
+    "intro": "방탄소년단 리더, 메인래퍼"
+  },
+  {
+    "memberId": 2,
+    "groupsId": 1,
+    "name": "슈가(민윤기)",
+    "mainImgUrl": "https://ifh.cc/g/N88KT.jpg",
+    "subImgUrl": "https://ifh.cc/g/Qd7lM.jpg",
+    "intro": "방탄소년단 리드래퍼"
+  },
+  {
+    "memberId": 3,
+    "groupsId": 1,
+    "name": "진(김석진)",
+    "mainImgUrl": "https://ifh.cc/g/KUMWQ.jpg",
+    "subImgUrl": "https://ifh.cc/g/gzDJg.jpg",
+    "intro": "방탄소년단 서브보컬"
+  },
+  {
+    "memberId": 4,
+    "groupsId": 1,
+    "name": "제이홉(정호석)",
+    "mainImgUrl": "https://ifh.cc/g/E7yWd.jpg",
+    "subImgUrl": "https://ifh.cc/g/wlMDU.jpg",
+    "intro": "방탄소년단 서브래퍼, 메인댄서"
+  },
+  {
+    "memberId": 5,
+    "groupsId": 1,
+    "name": "지민(박지민)",
+    "mainImgUrl": "https://ifh.cc/g/Ln43g.jpg",
+    "subImgUrl": "https://ifh.cc/g/e4KFs.jpg",
+    "intro": "방탄소년단 리드보컬, 메인댄서"
+  },
+  {
+    "memberId": 6,
+    "groupsId": 1,
+    "name": "뷔(김태형)",
+    "mainImgUrl": "https://ifh.cc/g/2Y4Mm.jpg",
+    "subImgUrl": "https://ifh.cc/g/NOg2k.jpg",
+    "intro": "방탄소년단 서브보컬"
+  },
+  {
+    "memberId": 7,
+    "groupsId": 1,
+    "name": "정국(전정국)",
+    "mainImgUrl": "https://ifh.cc/g/zGBHB.jpg",
+    "subImgUrl": "https://ifh.cc/g/D9q88.jpg",
+    "intro": "방탄소년단 메인보컬, 리드댄서"
+  },
+  {
+    "memberId": 8,
+    "groupsId": 2,
+    "name": "지효(박지효)",
+    "mainImgUrl": "https://ifh.cc/g/eul9i.jpg",
+    "subImgUrl": "https://ifh.cc/g/ExUR4.jpg",
+    "intro": "트와이스 리더, 메인보컬"
+  },
+    {
+    "memberId": 9,
+    "groupsId": 2,
+    "name": "정연(유정연)",
+    "mainImgUrl": "https://ifh.cc/g/OprN1.jpg",
+    "subImgUrl": "https://ifh.cc/g/J1AHM.jpg",
+    "intro": "트와이스 리드보컬"
+  },
+    {
+    "memberId": 10,
+    "groupsId": 2,
+    "name": "모모(히라이 모모)",
+    "mainImgUrl": "https://ifh.cc/g/77InJ.jpg",
+    "subImgUrl": "https://ifh.cc/g/XoARM.jpg",
+    "intro": "트와이스 서브보컬, 메인댄서"
+  },
+    {
+    "memberId": 11,
+    "groupsId": 2,
+    "name": "사나(미나토자키 사나)",
+    "mainImgUrl": "https://ifh.cc/g/yr4Jp.jpg",
+    "subImgUrl": "https://ifh.cc/g/XJZET.jpg",
+    "intro": "트와이스 서브보컬"
+  },
+    {
+    "memberId": 12,
+    "groupsId": 2,
+    "name": "나연(임나현)",
+    "mainImgUrl": "https://ifh.cc/g/nL33M.jpg",
+    "subImgUrl": "https://ifh.cc/g/HZeak.jpg",
+    "intro": "트와이스 리드보컬, 리드댄서"
+  },
+    {
+    "memberId": 13,
+    "groupsId": 2,
+    "name": "미나(묘이 미나)",
+    "mainImgUrl": "https://ifh.cc/g/IicN8.jpg",
+    "subImgUrl": "https://ifh.cc/g/zv1oD.jpg",
+    "intro": "트와이스 서브보컬, 메인댄서"
+  },
+    {
+    "memberId": 14,
+    "groupsId": 2,
+    "name": "다현(김다현)",
+    "mainImgUrl": "https://ifh.cc/g/1uy3u.jpg",
+    "subImgUrl": "https://ifh.cc/g/XVs2V.jpg",
+    "intro": "트와이스 리드래퍼, 서브보컬"
+  },
+    {
+    "memberId": 15,
+    "groupsId": 2,
+    "name": "채영(손채영)",
+    "mainImgUrl": "https://ifh.cc/g/vJ7nR.jpg",
+    "subImgUrl": "https://ifh.cc/g/DBM49.jpg",
+    "intro": "트와이스 메인래퍼, 서브보컬"
+  },
+    {
+    "memberId": 16,
+    "groupsId": 2,
+    "name": "쯔위(저우쯔위)",
+    "mainImgUrl": "https://ifh.cc/g/yAtrs.jpg",
+    "subImgUrl": "https://ifh.cc/g/pRnPz.jpg",
+    "intro": "트와이스 서브보컬, 리드댄서"
+  },
+  {
+    "memberId": 17,
+    "groupsId": 3,
+    "name": "오혁",
+    "mainImgUrl": "https://ifh.cc/g/8wuBd.jpg",
+    "subImgUrl": "https://ifh.cc/g/8wuBd.jpg",
+    "intro": "혁오밴드 리더, 보컬, 기타 "
+  },
+  {
+    "memberId": 18,
+    "groupsId": 3,
+    "name": "임동건",
+    "mainImgUrl": "https://ifh.cc/g/x7NsV.jpg",
+    "subImgUrl": "https://ifh.cc/g/x7NsV.jpg",
+    "intro": "혁오밴드 베이스"
+  },
+  {
+    "memberId": 19,
+    "groupsId": 3,
+    "name": "임현제",
+    "mainImgUrl": "https://ifh.cc/g/KfVjV.jpg",
+    "subImgUrl": "https://ifh.cc/g/KfVjV.jpg",
+    "intro": "혁오밴드 기타 "
+  },
+  {
+    "memberId": 20,
+    "groupsId": 3,
+    "name": "이인우",
+    "mainImgUrl": "https://ifh.cc/g/6geGS.jpg",
+    "subImgUrl": "https://ifh.cc/g/6geGS.jpg",
+    "intro": "혁오밴드 드럼 "
+  },
+  {
+    "memberId": 21,
+    "groupsId": 4,
+    "name": "제이플라",
+    "mainImgUrl": "https://ifh.cc/g/5KcGl.jpg",
+    "subImgUrl": "https://ifh.cc/g/2dlDb.jpg",
+    "intro": "유튜브 구독자 1300만 뮤직 크리에이터"
+  },
+  {
+    "memberId": 22,
+    "groupsId": 5,
+    "name": "우효",
+    "mainImgUrl": "https://ifh.cc/g/2ctlC.jpg",
+    "subImgUrl": "https://ifh.cc/g/3iXUh.jpg",
+	"intro": "싱어송 라이터 신스팝 장르"
+  }
+]

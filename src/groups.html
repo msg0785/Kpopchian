@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>K-POP Chain</title>
+  <link href="css/bulma-0.7.1.css" rel="stylesheet">
+  <link href="css/app.css" rel="stylesheet">
+  <script src="js/jquery-3.3.1.js"></script>
+  <script src="js/const.js"></script>
+  <script src="js/config.js"></script>
+  <script src="js/shelter.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/bignumber.js/8.0.1/bignumber.min.js"></script>
+  <style>
+    .overlay {
+      background: #dbdada;
+      display: none;
+      position: absolute;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+      opacity: 0.5;
+      z-index: 10001;
+    }
+  </style>
+</head>
+<body>
+  <section class="hero is-primary is-info is-bold">
+    <nav class="navbar">
+      <div class="container">
+        <div class="navbar-brand">
+          <a class="navbar-item" href="index.html">K-POP Chain</a>
+        </div>
+        <div class="navbar-menu">
+          <div class="navbar-end">
+            <a class="navbar-item is-active" href="mypage.html">My Page</a>
+          </div>
+        </div>
+      </div>
+    </nav>
+    <div class="hero-body">
+      <div class="container">
+        <nav class="level">
+          <div class="level-left is-block">
+            <h1 class="title">
+              K-POP그룹
+            </h1>
+            <h2 class="subtitle">
+            </h2>
+          </div>
+          <div class="level-right">
+            <nav class="navbar" role="navigation" aria-label="dropdown navigation">
+              <div class="navbar-item has-dropdown is-hoverable">
+                <a class="navbar-link has-text-grey-darker has-background-white">후원하기</a>
+                <div class="navbar-dropdown is-right">
+                  <a href="javascript:void(0)" class="navbar-item has-text-grey-darker" onclick="support(20)">20KPC (10000원) 후원</a>
+                  <a href="javascript:void(0)" class="navbar-item has-text-grey-darker" onclick="support(40)">40KPC (20000원) 후원</a>
+                  <a href="javascript:void(0)" class="navbar-item has-text-grey-darker" onclick="support(70)">70KPC (35000원) 후원</a>
+                </div>
+              </div>
+            </nav>
+          </div>
+        </nav>
+    </div>
+  </section>
+  <section class="section">
+    <div class="container is-fluid">
+      <div class="columns is-multiline">
+      </div>
+    </div>
+  </section>
+  <footer class="footer">
+    <div class="content has-text-centered">
+      <p>
+        <strong>BTS조(Blockchain Team Six)</strong> | <a href="http://www.sejong.ac.kr/" target="_blank">Sejong University</a><br>서울특별시 광진구 능동로 209 충무관 905호
+      </p>
+    </div>
+  </footer>
+
+  <div class="overlay">
+  </div>
+</body>
+</html>

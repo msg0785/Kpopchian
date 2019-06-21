@@ -1,0 +1,32 @@
+[
+  {
+    "groupsId": 1,
+    "title": "방탄소년단",
+    "subtitle": "남성그룹 멤버수 7명",
+    "imgUrl": "https://ifh.cc/g/DWiaM.jpg"
+  },
+  {
+    "groupsId": 2,
+    "title": "트와이스",
+    "subtitle": "여성그룹 멤버수 9명",
+    "imgUrl": "https://ifh.cc/g/2kzOH.jpg"
+  },
+  {
+    "groupsId": 3,
+    "title": "혁오밴드",
+    "subtitle": "인디밴드 멤버수 4명",
+    "imgUrl": "https://ifh.cc/g/07JZm.jpg"
+  },
+  {
+    "groupsId": 4,
+    "title": "제이플라",
+    "subtitle": "뮤직크리에이터",
+    "imgUrl": "https://ifh.cc/g/2dlDb.jpg"
+  },
+  {
+    "groupsId": 5,
+    "title": "우효",
+    "subtitle": "싱어송라이터",
+    "imgUrl": "https://ifh.cc/g/3iXUh.jpg"
+  }
+]
